@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Daniel-CasHuer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ACUERDOS PRIMERA CLASE
+## Pre-Requisitos
+* Curso de Control (7mo semestre)
+* Fundamentos de Programación
+* Manejo de cualquier microcontrolador o sistema embebido
+## Evaluación
+| Primer corte  |   |   |
+|---|---|---|
+|   |   |   |   
+|   |   |   |    
 
 <!---
 Daniel-CasHuer/Daniel-CasHuer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
